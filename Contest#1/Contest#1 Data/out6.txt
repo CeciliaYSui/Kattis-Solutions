@@ -1,0 +1,26 @@
+A J 
+B M J 
+C P J 
+D Q Y Z R P J 
+E H G M J 
+F M J 
+G M J 
+H G M J 
+I V C P J 
+J 
+K H G M J 
+L J 
+M J 
+N V C P J 
+O F M J 
+P J 
+Q Y Z R P J 
+R P J 
+S D Q Y Z R P J 
+T R P J 
+U A J 
+V C P J 
+W R P J 
+X W R P J 
+Y Z R P J 
+Z R P J 

@@ -1,0 +1,11 @@
+s = input()
+n = int(len(s)) // 2
+left, right = s[:n], s[n:]
+left = [(ord(i)-65) for i in left]
+right = [(ord(i)-65) for i in right]
+sl, sr = sum(left), sum(right)
+left = [(i+sl)%26 for i in left]
+right = [(i+sr)%26 for i in right]
+re = [0] * n
+re = [(left[i] + right[i]) %26 for i in range(n)]
+[print(str(chr(i+65)), end ='') for i in re]
